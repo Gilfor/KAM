@@ -1045,7 +1045,7 @@
             <Turkish>Orta derece Siyanoz</Turkish>
             <Italian>Moderata cianosi.</Italian>
             <Czech>Mírná cyanóza</Czech>
-            <Spanish>Cianosis intermedia</Spanish>
+            <Spanish>Cianosis moderada</Spanish>
         </Key>
         <Key ID="STR_kat_breathing_CyanosisStatus_Severe">
             <English>Severe Cyanosis</English>
@@ -1129,7 +1129,7 @@
             <Turkish>Orta derece Siyanoz SpO2 değeri</Turkish>
             <Italian>Valore di SpO2 della cianosi media.</Italian>
             <Czech>SpO2 hodnota mírné cyanózy</Czech>
-            <Spanish>Valor SpO2 de Cianosis intermedia</Spanish>
+            <Spanish>Valor SpO2 de Cianosis moderada</Spanish>
         </Key>
         <Key ID="STR_kat_breathing_SETTING_mildValue_DESC">
             <English>Mild cyanosis value - default 75 SpO2</English>
@@ -1143,7 +1143,7 @@
             <Turkish>Orta derece Siyanoz değeri - varsayılan 75 SpO2</Turkish>
             <Italian>Valore di cianosi media - default SpO2 75 .</Italian>
             <Czech>Hodnota mírné cyanózy - základní hodnota SpO2 75</Czech>
-            <Spanish>Valor SpO2 de Cianosis intermedia - Predeterminado en 75 SpO2</Spanish>
+            <Spanish>Valor SpO2 de Cianosis moderada - Predeterminado en 75 SpO2</Spanish>
         </Key>
         <Key ID="STR_kat_breathing_SETTING_severeValue">
             <English>Severe cyanosis SpO2 value</English>
